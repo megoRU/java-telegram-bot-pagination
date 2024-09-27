@@ -1,5 +1,8 @@
 # java-telegram-bot-pagination
 
+[![GitHub tag](https://img.shields.io/github/tag/megoRU/java-telegram-bot-pagination?include_prereleases=&sort=semver&color=blue)](https://github.com/megoRU/java-telegram-bot-pagination/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+
 ### Maven
 
 https://jitpack.io/#megoRU/java-telegram-bot-pagination
@@ -19,6 +22,11 @@ https://jitpack.io/#megoRU/java-telegram-bot-pagination
     <version>1.0</version>
 </dependency>
 ```
+
+## Image
+
+![image](https://github.com/megoRU/java-telegram-bot-pagination/raw/main/.github/images/pagination.jpg)
+
 
 ## Examples
 
